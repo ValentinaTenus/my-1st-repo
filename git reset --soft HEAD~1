@@ -1,0 +1,41 @@
+[33mcommit 4452d3e3147365b8db36d06bd4c6a79520766102[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Valentina Tenus <valentinatenus@gmail.com>
+Date:   Thu Dec 22 00:51:52 2022 +0200
+
+    delete 3 last line
+
+[33mcommit 10bd6ba17960916a9371d908aaf014441ef71c85[m
+Author: Valentina Tenus <valentinatenus@gmail.com>
+Date:   Thu Dec 22 00:12:58 2022 +0200
+
+    new commit
+
+[33mcommit e548393d31348c74d0a9012622616ca439e3e099[m
+Author: Valentina Tenus <valentinatenus@gmail.com>
+Date:   Wed Dec 21 23:58:09 2022 +0200
+
+    add new information
+
+[33mcommit fde665a999d8b9d07a35fd2367e03168527a0192[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Valentina Tenus <valentinatenus@gmail.com>
+Date:   Wed Dec 21 12:27:45 2022 +0200
+
+    add 2 new lines and remote one
+
+[33mcommit dcf7feff196dbbd1a9f9519d0e5051cf6459f632[m
+Author: ValentinaTenus <120641395+ValentinaTenus@users.noreply.github.com>
+Date:   Wed Dec 21 11:29:01 2022 +0200
+
+    add 2 new lines to the song
+
+[33mcommit 3af03e7c0156a02cef89de9f192a06f1554abbb0[m
+Author: Valentina Tenus <valentinatenus@gmail.com>
+Date:   Wed Dec 21 11:23:15 2022 +0200
+
+    add first 2 lines in the song
+
+[33mcommit 7f60a5977f106537bb4579dcd2741e4f8c027d71[m
+Author: ValentinaTenus <120641395+ValentinaTenus@users.noreply.github.com>
+Date:   Wed Dec 21 10:59:50 2022 +0200
+
+    Initial commit
