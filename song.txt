@@ -5,5 +5,9 @@ some text line 5
 some text line 6
 some new text
 cgnxtjtydmngb
+<<<<<<< HEAD
 dvnghcchjj,h
 2 experement
+=======
+dvnghcchjj,h
+>>>>>>> 264a9cc56742fa0c119aa7af400ee3862a93ec25
